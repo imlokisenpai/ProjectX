@@ -24,7 +24,7 @@ comment: ture
 
 ## 使用方法
 
-* 下载[zip文件](https://codeload.github.com/akiritsu/pRoJEct-VeXEd/zip/master)，或者将[pRoJEct-VeXEd](https://github.com/akiritsu/pRoJEct-VeXEd) fork到自己的github仓库里
+* 下载[zip文件](https://codeload.github.com/gmkzwwg/pRoJEct-VeXEd/zip/master)，或者将[pRoJEct-VeXEd](https://github.com/gmkzwwg/pRoJEct-VeXEd) fork到自己的github仓库里
 * 修改_config.yml文件
 * （自定义域名）修改CNAME文件
 * 修改pages/index.md文件，自定义主页

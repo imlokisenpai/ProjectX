@@ -48,7 +48,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : gmkzwwg
 
 # 4. Default page configuration
 defaults:
@@ -74,11 +74,11 @@ defaults:
       highlight           : false
 
 # 5. Social Media Accounts
-email               : "akiritsu@outlook.com" 
+email               : "gmkzwwg@outlook.com" 
 linkedin            : 
-github              : "/akiritsu/pRoJEct-NeGYa" 
+github              : "/gmkzwwg/pRoJEct-NeGYa" 
 gitlab              : 
-website             : "akiritsu.github.io/pRoJEct-NeGYa/"
+website             : "gmkzwwg.github.io/pRoJEct-NeGYa/"
 twitter             : "just-test"
 facebook            : "just-test"
 instagram           : 

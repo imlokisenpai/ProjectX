@@ -8,7 +8,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/akiritsu/pRoJEct-NeGYa">
+  <a href="https://github.com/gmkzwwg/pRoJEct-NeGYa">
     <img src="src/assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,11 +19,11 @@
     pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
     <br />
     <br />
-    <a href="https://akiritsu.github.io/pRoJEct-NeGYa/">View Demo</a>
+    <a href="https://gmkzwwg.github.io/pRoJEct-NeGYa/">View Demo</a>
     ·
-    <a href="https://github.com/akiritsu/pRoJEct-NeGYa/issues">Report Bug</a>
+    <a href="https://github.com/gmkzwwg/pRoJEct-NeGYa/issues">Report Bug</a>
     ·
-    <a href="https://github.com/akiritsu/pRoJEct-NeGYa/issues">Request Feature</a>
+    <a href="https://github.com/gmkzwwg/pRoJEct-NeGYa/issues">Request Feature</a>
   </p>
 
 </p>
@@ -121,7 +121,7 @@ gem install jekyll-sitemap jekyll-feed jekyll-seo-tag jekyll-mermaid
 
 ### Installation
 
-1. Fork this project on [github](https://github.com/akiritsu/pRoJEct-NeGYa), change project settings, and clone your own repository into your local disk.
+1. Fork this project on [github](https://github.com/gmkzwwg/pRoJEct-NeGYa), change project settings, and clone your own repository into your local disk.
 
 ```bash
 git clone https://github.com/{{YOUR_USERNAME}}/{{YOUR_REPOSITORY}}.git
@@ -237,13 +237,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 DeerRIDER - [Email](mailto://deerrider666@outlook.com)
 
-Project Link: [https://github.com/akiritsu/pRoJEct-NeGYa](https://github.com/akiritsu/pRoJEct-NeGYa)
+Project Link: [https://github.com/gmkzwwg/pRoJEct-NeGYa](https://github.com/gmkzwwg/pRoJEct-NeGYa)
 
-[forks-shield]: https://img.shields.io/github/forks/akiritsu/pRoJEct-NeGYa.svg?style=flat-square
-[forks-url]: https://github.com/akiritsu/pRoJEct-NeGYa/network/members
-[stars-shield]: https://img.shields.io/github/stars/akiritsu/pRoJEct-NeGYa.svg?style=flat-square
-[stars-url]: https://https://github.com/akiritsu/pRoJEct-NeGYa/stargazers
-[issues-shield]: https://img.shields.io/github/issues/akiritsu/pRoJEct-NeGYa.svg?style=flat-square
-[issues-url]: https://https://github.com/akiritsu/pRoJEct-NeGYa/issues
-[license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-NeGYa.svg?style=flat-square
-[license-url]: https://https://github.com/akiritsu/pRoJEct-NeGYa/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/gmkzwwg/pRoJEct-NeGYa.svg?style=flat-square
+[forks-url]: https://github.com/gmkzwwg/pRoJEct-NeGYa/network/members
+[stars-shield]: https://img.shields.io/github/stars/gmkzwwg/pRoJEct-NeGYa.svg?style=flat-square
+[stars-url]: https://https://github.com/gmkzwwg/pRoJEct-NeGYa/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gmkzwwg/pRoJEct-NeGYa.svg?style=flat-square
+[issues-url]: https://https://github.com/gmkzwwg/pRoJEct-NeGYa/issues
+[license-shield]: https://img.shields.io/github/license/gmkzwwg/pRoJEct-NeGYa.svg?style=flat-square
+[license-url]: https://https://github.com/gmkzwwg/pRoJEct-NeGYa/blob/master/LICENSE.txt

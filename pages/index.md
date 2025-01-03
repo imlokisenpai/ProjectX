@@ -37,7 +37,7 @@ permalink: /
 
 pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
 
-[Github: https://github.com/akiritsu/pRoJEct-NeGYa](https://github.com/akiritsu/pRoJEct-NeGYa)
+[Github: https://github.com/gmkzwwg/pRoJEct-NeGYa](https://github.com/gmkzwwg/pRoJEct-NeGYa)
 
 ## Features
 
@@ -70,11 +70,11 @@ for i in range(n):
 
 ## Download and Documentation
 
-[**pRoJEct NeGYa README (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
+[**pRoJEct NeGYa README (Github)**](https://github.com/gmkzwwg/pRoJEct-NeGYa)
 
-[**pRoJEct NeGYa README (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa/readme-zhcn/)
+[**pRoJEct NeGYa README (Github)**](https://github.com/gmkzwwg/pRoJEct-NeGYa/readme-zhcn/)
 
-[Download ZIP files](https://codeload.github.com/akiritsu/pRoJEct-NeGYa/zip/master)
+[Download ZIP files](https://codeload.github.com/gmkzwwg/pRoJEct-NeGYa/zip/master)
 
 ## More Samples
 
