@@ -3,46 +3,70 @@ body {
   line-height: 1.70;
   font-size: $font-size-primary;
   color: $color-primary;
-  font-family: $font-serif;
+  font-family: $font-monospace;
   cursor: $cursor-green-auto;
 }
 h1 {
   font-size: $font-size-h1;
-  text-align: center !important;
   font-weight: lighter;
+  text-align: center !important;
+  text-transform: uppercase;
   margin: 1.6em 0 1.5em 0;
   cursor: $cursor-green-text;
 }
 h2 {
+  color: $color-third;
   font-size: $font-size-h2;
   font-weight: lighter;
+  text-transform: uppercase;
   margin: 1.6em 0 0.8em 0;
-  border-bottom: $secondary-border;
+  border-bottom: $dotted-border-2;
   cursor: $cursor-green-text;
 }
 h3 {
+  color: $color-third;
   font-size: $font-size-h3;
   font-weight: lighter;
+  // text-transform: capitalize;
   margin: 1.6em 0 0.8em 0;
-  border-bottom: $dotted-border;
+  border-bottom: none;
   cursor: $cursor-green-text;
+}
+h4::before {
+  content: "§ ";  /* Add the desired symbol here */
+  font-size: $font-size-h4;
+  color: $color-third;  /* Optional: Set the color of the symbol */
 }
 h4 {
+  color: $color-third;
   font-size: $font-size-h4;
   font-weight: lighter;
-  margin: 1.6em 0 0.8em 0;
+  margin: 1.2em 0 0.8em 0;
   cursor: $cursor-green-text;
+  list-style-type: decimal;
+}
+h5::before {
+  content: "§§ ";  /* Add the desired symbol here */
+  font-size: $font-size-h5;
+  color: $color-third;  /* Optional: Set the color of the symbol */
 }
 h5 {
+  color: $color-third;
   font-size: $font-size-h5;
   font-weight: lighter;
-  margin: 2em 0 0.6em 0;
+  margin: 1.2em 0 0.6em 0;
   cursor: $cursor-green-text;
 }
+h6::before {
+  content: "§§§ ";  /* Add the desired symbol here */
+  font-size: $font-size-h6;
+  color: $color-third;  /* Optional: Set the color of the symbol */
+}
 h6 {
+  color: $color-third;
   font-size: $font-size-h6;
   font-weight: lighter;
-  margin: 2em 0 0.6em 0;
+  margin: 1.6em 0 0.6em 0;
   cursor: $cursor-green-text;
 }
 p {
@@ -109,14 +133,14 @@ img {
 }
 ol {
   padding: 0 0 0 2em;
-  margin: $global-section-margin 12px 12px 0px;
+  margin: $global-section-margin 0.2em 0.2em 0px;
   display: block;
   list-style-type: decimal;
   cursor: $cursor-green-text;
 }
 ul {
-  padding: 0 0 0 1.8em;
-  margin: $global-section-margin 12px 12px 0px;
+  padding: 0 0 0 1.25em;
+  margin: $global-section-margin 0.2em 0.2em 0px;
   list-style: disc;
   cursor: $cursor-green-text;
 }
@@ -127,7 +151,7 @@ blockquote {
   line-height: 1.5;
   color: $article-blockquote;
   padding: 0 0.23em 0 0.5em;
-  border: 0.7px solid $article-blockquote;
+  border: 0.5px dotted $article-blockquote;
   cursor: $cursor-green-text;
 //  border-left: 2.5px solid $article-blockquote;
 }
@@ -139,7 +163,8 @@ sup a{
 }
 // code highlight
 pre {
-  margin: 0.6em 0.1em;
+  margin: 0.6em 0em;
+  padding: 0.3em 0.3em 0.3em 0.3em;
 }
 
 em {
