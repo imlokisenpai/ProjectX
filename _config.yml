@@ -1,13 +1,13 @@
 # 1. Site Settings
-title               : pRoJEct-NeGYa
-owner               : "DeerRIDER"
-url                 : "https://gmkzwwg.github.io"
-baseurl             : "/pRoJEct-NeGYa"
+title               : projectX
+owner               : "lokisenpai"
+url                 : "https://imlokisenpai.github.io"
+baseurl             : "/projectx"
 ## baseurl            : ""
 permalink           : /:title/
-description         : "A hacker-style note-keeping website template."
+description         : "My notes and stuff"
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "₹lol₹"
 # bgtext              : "01"
 bgtext              : "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
